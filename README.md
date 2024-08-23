@@ -1,7 +1,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="[https://i.imgflip.com/65efzo.gif](https://raw.githubusercontent.com/ibrahimokutan/ibrahimokutan/output/helloworld.gif)"  />
+  <img height="200" src="https://raw.githubusercontent.com/ibrahimokutan/ibrahimokutan/output/helloworld.gif"  />
 </div>
 
 ###
