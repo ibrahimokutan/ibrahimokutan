@@ -1,16 +1,13 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ibrahimokutan/ibrahimokutan/output/pacman.gif"  />
+  <img src="https://raw.githubusercontent.com/ibrahimokutan/ibrahimokutan/output/code.gif"  />
+    # Hey, I'm Ibrahim OKUTAN
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/ibrahimokutan/ibrahimokutan/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
@@ -65,5 +62,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/ibrahimokutan/ibrahimokutan/output/snake.svg" alt="Snake animation" />
 
 ###
