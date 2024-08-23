@@ -1,7 +1,7 @@
 ###
 
 <div height="50px">
-  <img height="50px" src="https://raw.githubusercontent.com/ibrahimokutan/ibrahimokutan/output/code.gif" />
+ <span>  <img height="50px" src="https://raw.githubusercontent.com/ibrahimokutan/ibrahimokutan/output/code.gif" /> </span>
   <span>Hey, I'm Ibrahim OKUTAN</span>
 </div>
 
