@@ -1,3 +1,5 @@
+###
+
 <div align="center">
   <img height="200" src="[https://i.imgflip.com/65efzo.gif](https://raw.githubusercontent.com/ibrahimokutan/ibrahimokutan/output/helloworld.gif)"  />
 </div>
@@ -62,12 +64,6 @@
   <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="[https://i.imgflip.com/65efzo.gif](https://raw.githubusercontent.com/ibrahimokutan/ibrahimokutan/output/helloworld.gif)"  />
 </div>
 
 ###
