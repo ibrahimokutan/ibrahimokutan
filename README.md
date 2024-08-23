@@ -1,8 +1,8 @@
 ###
 
-<div height="50px">
- <span>  <img height="50px" src="https://raw.githubusercontent.com/ibrahimokutan/ibrahimokutan/output/code.gif" /> </span>
-  <span>Hey, I'm Ibrahim OKUTAN</span>
+<div align="center">
+<img height="30px" src="https://raw.githubusercontent.com/ibrahimokutan/ibrahimokutan/output/code.gif" />
+<h2>Hey, I'm Ibrahim OKUTAN</h2>
 </div>
 
 
