@@ -1,7 +1,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ibrahimokutan/ibrahimokutan/output/helloworld.gif"  />
+  <img src="https://raw.githubusercontent.com/ibrahimokutan/ibrahimokutan/output/pacman.gif"  />
 </div>
 
 ###
