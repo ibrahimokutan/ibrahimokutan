@@ -1,8 +1,8 @@
 ###
 
-<div align="center">
-  <img height="50px" src="https://raw.githubusercontent.com/ibrahimokutan/ibrahimokutan/output/code.gif"  />
-  <h1 style="font-family: Poppins;">Hey, I'm Ibrahim OKUTAN</h1>
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img height="50px" src="https://raw.githubusercontent.com/ibrahimokutan/ibrahimokutan/output/code.gif" />
+  <h1 style="font-family: 'Poppins', sans-serif; font-weight: bold; margin-left: 10px;">Hey, I'm Ibrahim OKUTAN</h1>
 </div>
 
 ###
