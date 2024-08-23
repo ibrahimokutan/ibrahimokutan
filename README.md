@@ -1,8 +1,8 @@
 ###
 
-<div style="height: 50px; display: flex; align-items: center;">
+<div height="50px">
   <img height="50px" src="https://raw.githubusercontent.com/ibrahimokutan/ibrahimokutan/output/code.gif" />
-  <span style="margin: 0 0 0 10px;">Hey, I'm Ibrahim OKUTAN</span>
+  <span>Hey, I'm Ibrahim OKUTAN</span>
 </div>
 
 
