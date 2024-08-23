@@ -1,6 +1,6 @@
 ###
 
-<div style="display: flex; align-items: center; justify-content: center;">
+<div style="display: flex; align-items: center;">
   <img height="50px" src="https://raw.githubusercontent.com/ibrahimokutan/ibrahimokutan/output/code.gif" />
   <span style="margin: 0 0 0 100px">Hey, I'm Ibrahim OKUTAN</span>
 </div>
